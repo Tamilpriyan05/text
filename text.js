@@ -5,3 +5,5 @@ const name='tamilpriyan'
 
 
  const age="23"
+
+ const DOB="24/06/2001"
